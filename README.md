@@ -9,15 +9,15 @@ A mini e-commerce application built with Rails 6.1 for purposes of teaching Rail
 
 ## Screenshots
 
-![Jungle - HomePage]()
+![Jungle - HomePage](https://github.com/i8Raffles/jungle-rails/blob/master/docs/home_page.PNG?raw=true)
 
-![Jungle - Cart]()
+![Jungle - Cart](https://github.com/i8Raffles/jungle-rails/blob/master/docs/cart_page.PNG?raw=true)
 
-![Jungle - Category]()
+![Jungle - Category](https://github.com/i8Raffles/jungle-rails/blob/master/docs/category_page.PNG?raw=true)
 
-![Jungle - SingleProduct]()
+![Jungle - SingleProduct](https://github.com/i8Raffles/jungle-rails/blob/master/docs/single_product.PNG?raw=true)
 
-![Jungle - AdminProducts]()
+![Jungle - AdminProducts](https://github.com/i8Raffles/jungle-rails/blob/master/docs/admin_products.PNG?raw=true)
 
 
 ## Setup
