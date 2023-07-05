@@ -2,6 +2,24 @@
 
 A mini e-commerce application built with Rails 6.1 for purposes of teaching Rails by example.
 
+## Features
+- Admins can login to view a list of all plants and categories, add new plants and categories to the application.
+- On the home page, all users can view a list of all the plants/trees and view them by categories. Clicking on a product will take the user to that specific product page with information about that plant's description, price and quantity available.
+- Users can also register, login and add plants to cart should they want to purchase them. Purchasing functionality has been implemented with Stripe.
+
+## Screenshots
+
+![Jungle - HomePage]()
+
+![Jungle - Cart]()
+
+![Jungle - Category]()
+
+![Jungle - SingleProduct]()
+
+![Jungle - AdminProducts]()
+
+
 ## Setup
 
 1. Run `bundle install` to install dependencies
